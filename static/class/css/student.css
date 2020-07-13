@@ -1,0 +1,93 @@
+.color-blue{
+    background-color: #051328;
+}
+
+
+.class-name-body{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.class-name{
+    font-weight: 900;
+    font-size: xx-large;
+    color: white;
+    text-transform: uppercase;
+}
+.class-line{
+    width: 100%;
+    height: 3px;
+    background-color: grey;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.post{
+    background-color: white;
+    margin-top:5%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    
+}
+
+.post-teacher-body{
+    text-align: left;
+}
+
+.post-teacher{
+    font-size: medium;
+    font-weight: 700;
+}
+
+.post-subject-body{
+    text-align: right;
+}
+.post-subject{
+    font-size: medium;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.post-date-body{
+    text-align: left;
+}
+
+.post-date{
+    font-size: 10px;
+    color: #5b5757;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.post-div-body{
+    align-content: center;
+}
+.post-div{
+    background-color: grey;
+    width: 96%;
+    height: 1px;
+    margin-left: 2%;
+}
+
+.post-content-body{
+    text-align: justify;
+    margin-top: 2%;
+}
+
+.post-content{
+    font-size: medium;
+    color: black;
+}
+
+.post-link-body{
+    text-align: left;
+}
+
+.post-link-text{
+    text-align: left;
+    word-break: break-all;
+}
+
+
+

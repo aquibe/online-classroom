@@ -1,0 +1,21 @@
+.login-container{
+    margin-top: 13%;
+}
+.login-heading{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.color-white{
+    color: white;
+}
+.login-custom{
+    width: 80%;
+    font-size: larger;
+}
+.mid{
+    
+    text-align: center;
+    margin-top: 10%;
+}

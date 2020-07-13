@@ -1,0 +1,32 @@
+.teacher-name-body{
+    padding-top: 20px;
+ 
+}
+.teacher-name{
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+
+.logout-body,.new-post-body{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.logout,.new-post{
+    font-size: 20px;
+    width: 100%;
+}
+.post-delete-body{
+    text-align: right;
+    margin-top: 10px;
+}
+.post-edit-body{
+    text-align: left;
+    margin-top: 10px;
+}
+.post-settings{
+    width: 85%;
+}
